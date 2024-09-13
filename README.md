@@ -38,9 +38,9 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkkmin&layout=compact)<br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzangkkmin)](https://solved.ac/profile/zzangkkmin)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzangkkmin)](https://solved.ac/zzangkkmin)
 
 ## 곧 추가될 목록
 
-https://the-fat-cat.notion.site/GitHub-Profile-0a0eab64fa4c4ca19d961b5e23e4c9ba 참조하기
+https://the-fat-cat.notion.site/GitHub-Profile-0a0eab64fa4c4ca19d961b5e23e4c9ba 참조하기   
 이전 회사 관련 경험 repository
