@@ -37,7 +37,8 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangkkmin&layout=compact)<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzangkkmin)](https://solved.ac/profile/zzangkkmin)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=zzangkkmin)](https://solved.ac/zzangkkmin)
 
 ## 곧 추가될 목록
 
