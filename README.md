@@ -13,7 +13,9 @@
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)<br>
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -22,7 +24,9 @@
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)<br>
+![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)<br>
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -48,10 +52,15 @@
   
 ## Study experience
 
+- 내일배움캠프 Spring 심화 3기 (2025.02 ~ 2025.05)
+  - 백앤드 심화 교육 수료
+  - 28배달 (모노리식 기반 배달 서비스) 팀 프로젝트 경험 (https://github.com/28delivery/BackEnd)
+  - 이삼해씨 물류 (MSA기반 물류 관리 서비스) 팀 프로젝트 경험 (https://github.com/Bulbas23r/SpartaLogistic)
+  - 42.195km (MSA기반 러닝 앱 서비스) 팀 프로젝트 경험 (https://github.com/42-195KM)
+- 멀티캠퍼스 국비지원 백앤드 과정 27기 교육 (2024.08 ~ 2024.12)
+  - java 그리고 백앤드 교육 수료
+  - S.C.V.s(주식 뉴스 뷰어) 팀 프로젝트 경험 (https://github.com/27kdt3team/team3)
 - SSAFY 1기 교육 (2019.02 ~ 2019.11)
   - 기초 알고리즘 및 java 그리고 웹 개발 교육 수료
   - 삼성전자 베트남법인 모바일센터 해외연수 경험 (https://github.com/zzangkkmin/GalaxyMemoryBoard)
   - 방구석여행 팀 프로젝트 경험 (https://github.com/NerdInRoom/virtualtraveler-vue)
-- 멀티캠퍼스 국비지원 백앤드 과정 27기 교육 (2024.08 ~ 2024.12)
-  - java 그리고 백앤드 교육 수료
-  - S.C.V.s 팀 프로젝트 경험 (https://github.com/27kdt3team/team3)
